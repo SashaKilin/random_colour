@@ -1,0 +1,10 @@
+C:\Users\а\source\repos\random_color\random_color\bin\Debug\random_color.exe.config
+C:\Users\а\source\repos\random_color\random_color\bin\Debug\random_color.exe
+C:\Users\а\source\repos\random_color\random_color\bin\Debug\random_color.pdb
+C:\Users\а\source\repos\random_color\random_color\obj\Debug\random_color.Form1.resources
+C:\Users\а\source\repos\random_color\random_color\obj\Debug\random_color.Properties.Resources.resources
+C:\Users\а\source\repos\random_color\random_color\obj\Debug\random_color.csproj.GenerateResource.cache
+C:\Users\а\source\repos\random_color\random_color\obj\Debug\random_color.csproj.CoreCompileInputs.cache
+C:\Users\а\source\repos\random_color\random_color\obj\Debug\random_color.exe
+C:\Users\а\source\repos\random_color\random_color\obj\Debug\random_color.pdb
+C:\Users\а\source\repos\random_color\random_color\obj\Debug\random_color.csprojAssemblyReference.cache
